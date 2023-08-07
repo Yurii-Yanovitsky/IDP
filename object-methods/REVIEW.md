@@ -1,0 +1,1 @@
+### This project is for educational purpose and demonstrates the use of Object methods in JavaScript.
